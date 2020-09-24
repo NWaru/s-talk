@@ -16,4 +16,4 @@ in one terminal, and
     
 in another, allows one to send messages between consoles on the same machine - provided the ports are free.
 
-Likely will not work across devices do to firewalls and other fancy security systems that are not accounted for. 
+Likely will not work across devices due to firewalls and other fancy security systems that are not accounted for. 
