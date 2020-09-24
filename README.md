@@ -5,6 +5,8 @@ Run 'make' then
 
     ./s-talk [my port number] [remote machine name] [remote port number]
     
+Enter "!" when done to end both instances of s-talk.
+    
 e.g: Running 
 
     ./s-talk 6001 machine-name 6060
