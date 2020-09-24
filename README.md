@@ -1,5 +1,5 @@
 # s-talk
-Multi-threaded console chat application 
+Multi-threaded console chat application for Linux
 
 Run 'make' then 
 
